@@ -9,4 +9,6 @@ A repo containing practice problems for data analysis and to track my daily prog
 | 18/01/2019 | GPS analysis | [GPS trajectory(UCI)](https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories) | https://github.com/anish2197/data-analytics/blob/master/Day%203.ipynb | Completed |
 | 21/01/2019 | more GPS analysis | [GPS trajectory(UCI)](https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories) | https://github.com/anish2197/data-analytics/blob/master/Day%204.ipynb | Completed |
 | 23/01/2019 | GPS | [GPS trajectory(UCI)](https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories) | https://github.com/anish2197/data-analytics/blob/master/Day%205.ipynb | Complete |
-| 25/01/2019 | Turn detection | company data | https://github.com/anish2197/data-analytics/blob/master/Day%206.ipynb | 50% |
+| 25/01/2019 | Turn detection | company data | https://github.com/anish2197/data-analytics/blob/master/Day%206%20and%207.ipynb | 50% |
+| 26/01/2019 | Turn detection | company data | https://github.com/anish2197/data-analytics/blob/master/Day%206%20and%207.ipynb | 75% |
+| 28/01/2019 | Data cleaning & Turning speed | company data | https://github.com/anish2197/data-analytics/blob/master/Day%208.ipynb | Incomplete | 
